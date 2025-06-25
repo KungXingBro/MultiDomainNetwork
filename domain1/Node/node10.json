@@ -1,0 +1,15 @@
+{
+    "id": 10,
+    "server": "2W2lCobJ7g9auueq1s1N",
+    "user": [
+        "EXT"
+    ],
+    "adjacent": [
+        "Node4",
+        "Node17",
+        "Node8",
+        "Node1",
+        "Node16",
+        "Node3"
+    ]
+}

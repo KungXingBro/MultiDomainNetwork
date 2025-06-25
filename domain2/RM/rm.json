@@ -1,0 +1,6 @@
+{
+  "id": "rm2",
+  "sid": "service4",
+  "user": "user4",
+  "adjace": ["bg2", "node2"]
+} 

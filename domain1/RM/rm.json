@@ -1,0 +1,21 @@
+{
+  "RM_information": [
+    {"id": "rm-node",
+    "sid": null,
+    "user": null,
+    "adjacent": ["bg1", "node1"]}
+  ],
+
+  "content_server_statistics": [],
+
+  "self_domain_topology": [],
+
+  "all_domain_topology": [],
+  
+  "self_domain_router_table": [],
+
+  "all_domain_router_table": []
+
+
+
+} 

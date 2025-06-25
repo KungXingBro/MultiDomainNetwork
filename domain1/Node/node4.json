@@ -1,0 +1,16 @@
+{
+    "id": 4,
+    "server": null,
+    "user": [
+        "wws",
+        "cda",
+        "867",
+        "0Eg",
+        "JMF"
+    ],
+    "adjacent": [
+        "Node13",
+        "Node10",
+        "Node7"
+    ]
+}

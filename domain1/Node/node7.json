@@ -1,0 +1,14 @@
+{
+    "id": 7,
+    "server": null,
+    "user": [
+        "CGl",
+        "IHx"
+    ],
+    "adjacent": [
+        "Node4",
+        "bg",
+        "Node16",
+        "Node2"
+    ]
+}
