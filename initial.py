@@ -73,6 +73,8 @@ def start_all_nodes():
         t = threading.Thread(target=node_server, args=(node, nodes_dict), daemon=True)
         t.start()
 
+        
+
 if __name__ == '__main__':
     start_all_nodes()
     print("所有节点已启动，可通过UDP端口10000~10019互发消息")
