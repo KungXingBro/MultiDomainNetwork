@@ -1,17 +1,15 @@
 {
-    "id": 17,
-    "server": null,
+    "id": "normal-node17",
+    "server": "muGaRG7xhVWNxaXOC8i5",
     "user": [
-        "uHf",
-        "RGP",
-        "SAR"
+        "ldb",
+        "TKS",
+        "Xar",
+        "ggG"
     ],
     "adjacent": [
-        "Node11",
-        "Node3",
-        "Node19",
-        "Node6",
-        "rm",
-        "Node7"
+        "normal-node6",
+        "rm-node",
+        "normal-node15"
     ]
 }

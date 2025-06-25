@@ -1,16 +1,16 @@
 {
-    "id": 11,
-    "server": null,
+    "id": "normal-node11",
+    "server": "1PSrSnuFHirPABWxCg9t",
     "user": [
-        "aBx",
-        "tRd",
-        "4tF",
-        "YyM"
+        "hQ2",
+        "Tsi",
+        "gct",
+        "tYU"
     ],
     "adjacent": [
-        "Node1",
-        "Node12",
-        "Node18",
-        "Node9"
+        "normal-node16",
+        "normal-node4",
+        "normal-node10",
+        "normal-node17"
     ]
 }

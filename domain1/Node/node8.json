@@ -1,16 +1,16 @@
 {
-    "id": 8,
-    "server": "NKkmRd9vrwPtS3U6cS9v",
+    "id": "normal-node8",
+    "server": "9kUdYv5cjxBM2QvzsMk1",
     "user": [
-        "xh8",
-        "8h1",
-        "ErO",
-        "8W6"
+        "atm",
+        "vxx"
     ],
     "adjacent": [
-        "Node9",
-        "Node20",
-        "Node13",
-        "Node17"
+        "normal-node16",
+        "normal-node12",
+        "normal-node2",
+        "normal-node10",
+        "rm-node",
+        "normal-node11"
     ]
 }

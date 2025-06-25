@@ -1,13 +1,15 @@
 {
-    "id": 18,
+    "id": "normal-node18",
     "server": null,
     "user": [
-        "AWL",
-        "T35"
+        "Ire",
+        "yKV"
     ],
     "adjacent": [
-        "Node7",
-        "Node10",
-        "Node3"
+        "normal-node5",
+        "normal-node4",
+        "normal-node10",
+        "normal-node14",
+        "normal-node9"
     ]
 }

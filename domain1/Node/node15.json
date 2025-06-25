@@ -1,15 +1,14 @@
 {
-    "id": 15,
-    "server": "qA8pcPXVjT4zqjeM1HiJ",
+    "id": "normal-node15",
+    "server": null,
     "user": [
-        "Jfr",
-        "GV1",
-        "h7a",
-        "M1t"
+        "GGH",
+        "K8Y",
+        "gLz"
     ],
     "adjacent": [
-        "rm",
-        "Node8",
-        "Node4"
+        "normal-node9",
+        "normal-node4",
+        "normal-node5"
     ]
 }

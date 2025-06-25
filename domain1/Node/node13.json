@@ -1,17 +1,17 @@
 {
-    "id": 13,
-    "server": "WmVZGyzkvOnpZyQJkMcN",
+    "id": "normal-node13",
+    "server": "xSnDugSWk5JoTi3SHFl5",
     "user": [
-        "FCl",
-        "and",
-        "NjZ",
-        "1c7"
+        "TAq",
+        "Jg9",
+        "jXF",
+        "l46"
     ],
     "adjacent": [
-        "Node1",
-        "Node19",
-        "Node4",
-        "Node8",
-        "Node2"
+        "normal-node14",
+        "normal-node1",
+        "normal-node15",
+        "normal-node9",
+        "normal-node20"
     ]
 }

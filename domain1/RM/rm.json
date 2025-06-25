@@ -1,10 +1,8 @@
 {
-  "RM_information": [
-    {"id": "rm-node",
-    "sid": null,
-    "user": null,
-    "adjacent": ["bg1", "node1"]}
-  ],
+  "id": "rm-node",
+  "sid": null,
+  "user": null,
+  "adjacent": ["bg1", "node1"],
 
   "content_server_statistics": [],
 

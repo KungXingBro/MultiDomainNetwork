@@ -1,5 +1,5 @@
 {
-  "id": "bg1",
+  "id": "bg-node1",
   "sid": null,
   "user": null,
   "adjacent": ["rm1", "node1"]
